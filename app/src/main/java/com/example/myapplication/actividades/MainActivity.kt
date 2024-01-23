@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.btnSegundoEjercicio.setOnClickListener {
-            val intent = Intent(this, ActividadPrimerEjercicio1::class.java)
+            val intent = Intent(this, ActividadSegundoEjercicio::class.java)
             startActivity(intent)
         }
 
