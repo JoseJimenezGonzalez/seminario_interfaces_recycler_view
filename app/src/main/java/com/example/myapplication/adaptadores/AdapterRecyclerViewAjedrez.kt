@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.myapplication.R
 import com.example.myapplication.databinding.ItemAjedrezBinding
-import com.example.myapplication.databinding.ItemPokemonBinding
 import com.example.myapplication.interfaces.OnItemClickListenerAjedrez
 import com.example.myapplication.modelos.PiezaAjedrez
 
